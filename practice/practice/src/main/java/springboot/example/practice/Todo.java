@@ -15,5 +15,6 @@ public class Todo {
     String name;
     String title;
     Boolean isDone;
+    Int Age;
 
 }
